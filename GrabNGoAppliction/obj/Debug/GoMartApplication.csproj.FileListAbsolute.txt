@@ -1,0 +1,31 @@
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\bin\Debug\GoMartApplication.exe.config
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\bin\Debug\GoMartApplication.exe
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\bin\Debug\GoMartApplication.pdb
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.csproj.AssemblyReference.cache
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.AboutBox1.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.AddAdmin.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.AddProduct.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.Form1.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.frmAddNewSeller.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.frmCategory.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.frmMain.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.Properties.Resources.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.SellingForm.resources
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.csproj.GenerateResource.cache
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.csproj.CoreCompileInputs.cache
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.exe
+C:\Users\himal\Downloads\Compressed\GoMartApplication-C-.Net-Project-master\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.pdb
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.csproj.AssemblyReference.cache
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.AboutBox1.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.AddAdmin.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.AddProduct.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.Form1.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.frmAddNewSeller.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.frmCategory.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.frmMain.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.Properties.Resources.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.SellingForm.resources
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.csproj.GenerateResource.cache
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.csproj.CoreCompileInputs.cache
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.exe
+E:\DOT NET\winForm\WinForm Projects\GoMartApplication-C-.Net-Project-master\GoMartApplication\obj\Debug\GoMartApplication.pdb

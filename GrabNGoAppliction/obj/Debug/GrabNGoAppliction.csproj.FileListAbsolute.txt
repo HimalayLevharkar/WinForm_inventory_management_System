@@ -1,0 +1,17 @@
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.csproj.AssemblyReference.cache
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.AboutBox1.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.AddAdmin.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.AddProduct.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.Form1.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.frmAddNewSeller.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.frmCategory.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.frmMain.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.Properties.Resources.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.SellingForm.resources
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.csproj.GenerateResource.cache
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.csproj.CoreCompileInputs.cache
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\bin\Debug\GrabNGoAppliction.exe.config
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\bin\Debug\GrabNGoAppliction.exe
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\bin\Debug\GrabNGoAppliction.pdb
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.exe
+E:\DOT NET\winForm\WinForm Projects\GrabNGoAppliction\GrabNGoAppliction\obj\Debug\GrabNGoAppliction.pdb
